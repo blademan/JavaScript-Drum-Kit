@@ -20,7 +20,7 @@ Thanks!
 ## LOGS
 
 
-### Day 1: 25.04.2021
+### Day 1: 26.05.2022
 
 **Thoughts:** Learned about key event, `transitionend` event
 
